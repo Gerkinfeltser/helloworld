@@ -6,7 +6,6 @@ from youtube_transcript_api import YouTubeTranscriptApi
 
 be_verbose=True
 show_raw_transcript=True
-# Change this to True when you want to use GPT-3.5-Turbo
 delimiter="; "  # Choose a unique delimiter
 
 # Tool for grabbing a YouTube title from the provided url

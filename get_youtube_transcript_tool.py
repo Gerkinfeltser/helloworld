@@ -102,20 +102,19 @@ else:
 
 video_title = get_youtube_video_title(user_input_url)
 transcript_segments = get_youtube_transcript_segments(user_input_url)
+transcript_title="TITLE: "+video_title+"\nTRANSCRIPT: "
 
 # Raw Transcript Print setup for Debugging/Clarity
 if show_raw_transcript:
-    raw_transcript_header = f'>>>>>>>>>>>>>>>>>>\n>>>>>> RAW [{video_title}] TRANSCRIPT START >>>>>>:\n'
-    raw_transcript_footer = f'\n\n<<<<<< RAW [{video_title}] TRANSCRIPT END <<<<<<\n<<<<<<<<<<<<<<<<<<'
-    print(raw_transcript_header)
+    print(transcript_title, end="")
     for segment in transcript_segments:
         print(segment, end="")
-    print(raw_transcript_footer)
     
 # Open a file in write mode
 if output_as_file:
     with open(output_file_name, 'w') as file:
-        file.write(video_title+"\n\n")
+        file.write(transcript_title)
         for segment in transcript_segments:
             file.write(segment)
-    print(f'{output_file_name} written!')
+        file.write('\n')
+    print(f'\n.....\n{output_file_name} written!')

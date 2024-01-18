@@ -4,9 +4,10 @@ from pytube import YouTube # for video title
 import re
 from youtube_transcript_api import YouTubeTranscriptApi
 
-be_verbose=True
 show_raw_transcript=True
+output_as_file=True
 delimiter="; "  # Choose a unique delimiter
+output_file_name='transcript_output.txt'
 
 # Tool for grabbing a YouTube title from the provided url
 @tool
@@ -98,14 +99,23 @@ else:
         print('>>> Paging Dr. Steve...')
     else:
         print(f'Grabbing transcript for {video_title}')
+
 video_title = get_youtube_video_title(user_input_url)
+transcript_segments = get_youtube_transcript_segments(user_input_url)
 
 # Raw Transcript Print setup for Debugging/Clarity
 if show_raw_transcript:
-    transcript_segments = get_youtube_transcript_segments(user_input_url)
     raw_transcript_header = f'>>>>>>>>>>>>>>>>>>\n>>>>>> RAW [{video_title}] TRANSCRIPT START >>>>>>:\n'
     raw_transcript_footer = f'\n\n<<<<<< RAW [{video_title}] TRANSCRIPT END <<<<<<\n<<<<<<<<<<<<<<<<<<'
     print(raw_transcript_header)
     for segment in transcript_segments:
         print(segment, end="")
     print(raw_transcript_footer)
+    
+# Open a file in write mode
+if output_as_file:
+    with open(output_file_name, 'w') as file:
+        file.write(video_title+"\n\n")
+        for segment in transcript_segments:
+            file.write(segment)
+    print(f'{output_file_name} written!')

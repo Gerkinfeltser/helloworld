@@ -1,0 +1,1561 @@
+[The Bible Recap One Year Plan by Tera-Leigh Cobble](https://www.thebiblerecap.com/)
+```dataview
+TASK
+WHERE !completed 
+WHERE contains(tags, "#BibleRecap")
+LIMIT 1
+```
+
+- [ ] #BibleRecap [Day 001 - Genesis 1-3](https://thebiblerecap.podbean.com/e/day001-year5/)
+    - @ Genesis 1
+    - @ Genesis 2
+    - @ Genesis 3
+- [ ] #BibleRecap [Day 002 - Genesis 4-7](https://thebiblerecap.podbean.com/e/day002-year5/)
+    - @ Genesis 4
+    - @ Genesis 5
+    - @ Genesis 6
+    - @ Genesis 7
+- [ ] #BibleRecap [Day 003 - Genesis 8-11](https://thebiblerecap.podbean.com/e/day003-year5/)
+    - @ Genesis 8
+    - @ Genesis 9
+    - @ Genesis 10
+    - @ Genesis 11
+- [ ] #BibleRecap [Day 004 - Job 1-5](https://thebiblerecap.podbean.com/e/day004-year5/)
+    - @ Job 1
+    - @ Job 2
+    - @ Job 3
+    - @ Job 4
+    - @ Job 5
+- [ ] #BibleRecap [Day 005 - Job 6-9](https://thebiblerecap.podbean.com/e/day005-year5/)
+    - @ Job 6
+    - @ Job 7
+    - @ Job 8
+    - @ Job 9
+- [ ] #BibleRecap [Day 006 - Job 10-13](https://thebiblerecap.podbean.com/e/day006-year5/)
+    - @ Job 10
+    - @ Job 11
+    - @ Job 12
+    - @ Job 13
+- [ ] #BibleRecap [Day 007 - Job 14-16](https://thebiblerecap.podbean.com/e/day007-year5/)
+    - @ Job 14
+    - @ Job 15
+    - @ Job 16
+- [ ] #BibleRecap [Day 008 - Job 17-20](https://thebiblerecap.podbean.com/e/day008-year5/)
+    - @ Job 17
+    - @ Job 18
+    - @ Job 19
+    - @ Job 20
+- [ ] #BibleRecap [Day 009 - Job 21-23](https://thebiblerecap.podbean.com/e/day009-year5/)
+    - @ Job 21
+    - @ Job 22
+    - @ Job 23
+- [ ] #BibleRecap [Day 010 - Job 24-28](https://thebiblerecap.podbean.com/e/day010-year5/)
+    - @ Job 24
+    - @ Job 25
+    - @ Job 26
+    - @ Job 27
+    - @ Job 28
+- [ ] #BibleRecap [Day 011 - Job 29-31](https://thebiblerecap.podbean.com/e/day011-year5/)
+    - @ Job 29
+    - @ Job 30
+    - @ Job 31
+- [ ] #BibleRecap [Day 012 - Job 32-34 -Year 5](https://thebiblerecap.podbean.com/e/day012-year5/)
+    - @ Job 32
+    - @ Job 33
+    - @ Job 34
+- [ ] #BibleRecap [Day 013 - Job 35-37](https://thebiblerecap.podbean.com/e/day013-year5/)
+    - @ Job 35
+    - @ Job 36
+    - @ Job 37
+- [ ] #BibleRecap [Day 014 - Job 38-39](https://thebiblerecap.podbean.com/e/day014-year5/)
+    - @ Job 38
+    - @ Job 39
+- [ ] #BibleRecap [Day 015 - Job 40-42](https://thebiblerecap.podbean.com/e/day015-year5/)
+    - @ Job 40
+    - @ Job 41
+    - @ Job 42
+- [ ] #BibleRecap [Day 016 - Genesis 12-15](https://thebiblerecap.podbean.com/e/day016-year5/)
+    - @ Genesis 12
+    - @ Genesis 13
+    - @ Genesis 14
+    - @ Genesis 15
+- [ ] #BibleRecap [Day 017 - Genesis 16-18](https://thebiblerecap.podbean.com/e/day017-year5/)
+    - @ Genesis 16
+    - @ Genesis 17
+    - @ Genesis 18
+- [ ] #BibleRecap [Day 018 - Genesis 19-21](https://thebiblerecap.podbean.com/e/day018-year5/)
+    - @ Genesis 19
+    - @ Genesis 20
+    - @ Genesis 21
+- [ ] #BibleRecap [Day 019 - Genesis 22-24](https://thebiblerecap.podbean.com/e/day019-year5/)
+    - @ Genesis 22
+    - @ Genesis 23
+    - @ Genesis 24
+- [ ] #BibleRecap [Day 020 - Genesis 25-26](https://thebiblerecap.podbean.com/e/day020-year5/)
+    - @ Genesis 25
+    - @ Genesis 26
+- [ ] #BibleRecap [Day 021 - Genesis 27-29](https://thebiblerecap.podbean.com/e/day021-year5/)
+    - @ Genesis 27
+    - @ Genesis 28
+    - @ Genesis 29
+- [ ] #BibleRecap [Day 022 - Genesis 30-31](https://thebiblerecap.podbean.com/e/day022-year5/)
+    - @ Genesis 30
+    - @ Genesis 31
+- [ ] #BibleRecap [Day 023 - Genesis 32-34 -Year 5](https://thebiblerecap.podbean.com/e/day023-year5/)
+    - @ Genesis 32
+    - @ Genesis 33
+    - @ Genesis 34
+- [ ] #BibleRecap [Day 024 - Genesis 35-37](https://thebiblerecap.podbean.com/e/day024-year5/)
+    - @ Genesis 35
+    - @ Genesis 36
+    - @ Genesis 37
+- [ ] #BibleRecap [Day 025 - Genesis 38-40](https://thebiblerecap.podbean.com/e/day025-year5/)
+    - @ Genesis 38
+    - @ Genesis 39
+    - @ Genesis 40
+- [ ] #BibleRecap [Day 026 - Genesis 41-42](https://thebiblerecap.podbean.com/e/day026-year5/)
+    - @ Genesis 41
+    - @ Genesis 42
+- [ ] #BibleRecap [Day 027 - Genesis 43-45](https://thebiblerecap.podbean.com/e/day027-year5/)
+    - @ Genesis 43
+    - @ Genesis 44
+    - @ Genesis 45
+- [ ] #BibleRecap [Day 028 - Genesis 46-47](https://thebiblerecap.podbean.com/e/day028-year5/)
+    - @ Genesis 46
+    - @ Genesis 47
+- [ ] #BibleRecap [Day 029 - Genesis 48-50](https://thebiblerecap.podbean.com/e/day029-year5/)
+    - @ Genesis 48
+    - @ Genesis 49
+    - @ Genesis 50
+- [ ] #BibleRecap [Day 030 - Exodus 1-3- Year 5](https://thebiblerecap.podbean.com/e/day030-year5/)
+    - @ Exodus 1
+    - @ Exodus 2
+    - @ Exodus 3
+- [ ] #BibleRecap [Day 031 - Exodus 4-6](https://thebiblerecap.podbean.com/e/day031-year5/)
+    - @ Exodus 4
+    - @ Exodus 5
+    - @ Exodus 6
+- [ ] #BibleRecap [Day 032 - Exodus 7-9](https://thebiblerecap.podbean.com/e/day032-year5/)
+    - @ Exodus 7
+    - @ Exodus 8
+    - @ Exodus 9
+- [ ] #BibleRecap [Day 033 - Exodus 10-12](https://thebiblerecap.podbean.com/e/day033-year5/)
+    - @ Exodus 10
+    - @ Exodus 11
+    - @ Exodus 12
+- [ ] #BibleRecap [Day 034 - Exodus 13-15](https://thebiblerecap.podbean.com/e/day034-year5/)
+    - @ Exodus 13
+    - @ Exodus 14
+    - @ Exodus 15
+- [ ] #BibleRecap [Day 035 - Exodus 16-18](https://thebiblerecap.podbean.com/e/day035-year5/)
+    - @ Exodus 16
+    - @ Exodus 17
+    - @ Exodus 18
+- [ ] #BibleRecap [Day 036 - Exodus 19-21](https://thebiblerecap.podbean.com/e/day036-year5/)
+    - @ Exodus 19
+    - @ Exodus 20
+    - @ Exodus 21
+- [ ] #BibleRecap [Day 037 - Exodus 22-24](https://thebiblerecap.podbean.com/e/day037-year5/)
+    - @ Exodus 22
+    - @ Exodus 23
+    - @ Exodus 24
+- [ ] #BibleRecap [Day 038 - Exodus 25-27](https://thebiblerecap.podbean.com/e/day038-year5/)
+    - @ Exodus 25
+    - @ Exodus 26
+    - @ Exodus 27
+- [ ] #BibleRecap [Day 039 - Exodus 28-29](https://thebiblerecap.podbean.com/e/day039-year5/)
+    - @ Exodus 28
+    - @ Exodus 29
+- [ ] #BibleRecap [Day 040 - Exodus 30-32](https://thebiblerecap.podbean.com/e/day040-year5/)
+    - @ Exodus 30
+    - @ Exodus 31
+    - @ Exodus 32
+- [ ] #BibleRecap [Day 041 - Exodus 33-35](https://thebiblerecap.podbean.com/e/day041-year5/)
+    - @ Exodus 33
+    - @ Exodus 34
+    - @ Exodus 35
+- [ ] #BibleRecap [Day 042 - Exodus 36-38](https://thebiblerecap.podbean.com/e/day042-year5/)
+    - @ Exodus 36
+    - @ Exodus 37
+    - @ Exodus 38
+- [ ] #BibleRecap [Day 043 - Exodus 39-40](https://thebiblerecap.podbean.com/e/day043-year5/)
+    - @ Exodus 39
+    - @ Exodus 40
+- [ ] #BibleRecap [Day 044 - Leviticus 1-4](https://thebiblerecap.podbean.com/e/day044-year5/)
+    - @ Leviticus 1
+    - @ Leviticus 2
+    - @ Leviticus 3
+    - @ Leviticus 4
+- [ ] #BibleRecap [Day 045 - Leviticus 5-7](https://thebiblerecap.podbean.com/e/day045-year5/)
+    - @ Leviticus 5
+    - @ Leviticus 6
+    - @ Leviticus 7
+- [ ] #BibleRecap [Day 046 - Leviticus 8-10](https://thebiblerecap.podbean.com/e/day046-year5/)
+    - @ Leviticus 8
+    - @ Leviticus 9
+    - @ Leviticus 10
+- [ ] #BibleRecap [Day 047 - Leviticus 11-13](https://thebiblerecap.podbean.com/e/day047-year5/)
+    - @ Leviticus 11
+    - @ Leviticus 12
+    - @ Leviticus 13
+- [ ] #BibleRecap [Day 048 - Leviticus 14-15](https://thebiblerecap.podbean.com/e/day048-year5/)
+    - @ Leviticus 14
+    - @ Leviticus 15
+- [ ] #BibleRecap [Day 049 - Leviticus 16-18](https://thebiblerecap.podbean.com/e/day-049-leviticus-16-18-year-5/)
+    - @ Leviticus 16
+    - @ Leviticus 17
+    - @ Leviticus 18
+- [ ] #BibleRecap [Day 050 - Leviticus 19-21](https://thebiblerecap.podbean.com/e/day-050-leviticus-19-21-year-5/)
+    - @ Leviticus 19
+    - @ Leviticus 20
+    - @ Leviticus 21
+- [ ] #BibleRecap [Day 051 - Leviticus 22-23](https://thebiblerecap.podbean.com/e/day051-year5/)
+    - @ Leviticus 22
+    - @ Leviticus 23
+- [ ] #BibleRecap [Day 052 - Leviticus 24-25](https://thebiblerecap.podbean.com/e/day052-year5/)
+    - @ Leviticus 24
+    - @ Leviticus 25
+- [ ] #BibleRecap [Day 053 - Leviticus 26-27](https://thebiblerecap.podbean.com/e/day053-year5/)
+    - @ Leviticus 26
+    - @ Leviticus 27
+- [ ] #BibleRecap [Day 054 - Numbers 1-2](https://thebiblerecap.podbean.com/e/day054-year5/)
+    - @ Numbers 1
+    - @ Numbers 2
+- [ ] #BibleRecap [Day 055 - Numbers 3-4](https://thebiblerecap.podbean.com/e/day055-year5/)
+    - @ Numbers 3
+    - @ Numbers 4
+- [ ] #BibleRecap [Day 056 - Numbers 5-6](https://thebiblerecap.podbean.com/e/day056-year5/)
+    - @ Numbers 5
+    - @ Numbers 6
+- [ ] #BibleRecap [Day 057 - Numbers 7](https://thebiblerecap.podbean.com/e/day057-year5/)
+    - @ Numbers 7
+- [ ] #BibleRecap [Day 058 - Numbers 8-10](https://thebiblerecap.podbean.com/e/day058-year5/)
+    - @ Numbers 8
+    - @ Numbers 9
+    - @ Numbers 10
+- [ ] #BibleRecap [Day 059 - Numbers 11-13](https://thebiblerecap.podbean.com/e/day059-year5/)
+    - @ Numbers 11
+    - @ Numbers 12
+    - @ Numbers 13
+- [ ] #BibleRecap [Day 060 - Numbers 14-15, Psalm 90](https://thebiblerecap.podbean.com/e/day060-year5/)
+    - @ Numbers 14
+    - @ Numbers 15
+    - @ Psalm 90
+- [ ] #BibleRecap [Day 061 - Numbers 16-17](https://thebiblerecap.podbean.com/e/day061-year5/)
+    - @ Numbers 16
+    - @ Numbers 17
+- [ ] #BibleRecap [Day 062 - Numbers 18-20](https://thebiblerecap.podbean.com/e/day062-year5/)
+    - @ Numbers 18
+    - @ Numbers 19
+    - @ Numbers 20
+- [ ] #BibleRecap [Day 063 - Numbers 21-22](https://thebiblerecap.podbean.com/e/day063-year5/)
+    - @ Numbers 21
+    - @ Numbers 22
+- [ ] #BibleRecap [Day 064 - Numbers 23-25](https://thebiblerecap.podbean.com/e/day064-year5/)
+    - @ Numbers 23
+    - @ Numbers 24
+    - @ Numbers 25
+- [ ] #BibleRecap [Day 065 - Numbers 26-27](https://thebiblerecap.podbean.com/e/day065-year5/)
+    - @ Numbers 26
+    - @ Numbers 27
+- [ ] #BibleRecap [Day 066 - Numbers 28-30](https://thebiblerecap.podbean.com/e/day066-year5/)
+    - @ Numbers 28
+    - @ Numbers 29
+    - @ Numbers 30
+- [ ] #BibleRecap [Day 067 - Numbers 31-32](https://thebiblerecap.podbean.com/e/day067-year5/)
+    - @ Numbers 31
+    - @ Numbers 32
+- [ ] #BibleRecap [Day 068 - Numbers 33-34](https://thebiblerecap.podbean.com/e/day068-year5/)
+    - @ Numbers 33
+    - @ Numbers 34
+- [ ] #BibleRecap [Day 069 - Numbers 35-36](https://thebiblerecap.podbean.com/e/day069-year5/)
+    - @ Numbers 35
+    - @ Numbers 36
+- [ ] #BibleRecap [Day 070 - Deuteronomy 1-2](https://thebiblerecap.podbean.com/e/day070-year5/)
+    - @ Deuteronomy 1
+    - @ Deuteronomy 2
+- [ ] #BibleRecap [Day 071 - Deuteronomy 3-4](https://thebiblerecap.podbean.com/e/day071-year5/)
+    - @ Deuteronomy 3
+    - @ Deuteronomy 4
+- [ ] #BibleRecap [Day 072 - Deuteronomy 5-7](https://thebiblerecap.podbean.com/e/day072-year5/)
+    - @ Deuteronomy 5
+    - @ Deuteronomy 6
+    - @ Deuteronomy 7
+- [ ] #BibleRecap [Day 073 - Deuteronomy 8-10](https://thebiblerecap.podbean.com/e/day073-year5/)
+    - @ Deuteronomy 8
+    - @ Deuteronomy 9
+    - @ Deuteronomy 10
+- [ ] #BibleRecap [Day 074 - Deuteronomy 11-13](https://thebiblerecap.podbean.com/e/day074-year5/)
+    - @ Deuteronomy 11
+    - @ Deuteronomy 12
+    - @ Deuteronomy 13
+- [ ] #BibleRecap [Day 075 - Deuteronomy 14-16](https://thebiblerecap.podbean.com/e/day075-year5/)
+    - @ Deuteronomy 14
+    - @ Deuteronomy 15
+    - @ Deuteronomy 16
+- [ ] #BibleRecap [Day 076 - Deuteronomy 17-20](https://thebiblerecap.podbean.com/e/day076-year5/)
+    - @ Deuteronomy 17
+    - @ Deuteronomy 18
+    - @ Deuteronomy 19
+    - @ Deuteronomy 20
+- [ ] #BibleRecap [Day 077 - Deuteronomy 21-23](https://thebiblerecap.podbean.com/e/day077-year5/)
+    - @ Deuteronomy 21
+    - @ Deuteronomy 22
+    - @ Deuteronomy 23
+- [ ] #BibleRecap [Day 078 - Deuteronomy 24-27](https://thebiblerecap.podbean.com/e/day078-year5/)
+    - @ Deuteronomy 24
+    - @ Deuteronomy 25
+    - @ Deuteronomy 26
+    - @ Deuteronomy 27
+- [ ] #BibleRecap [Day 079 - Deuteronomy 28-29](https://thebiblerecap.podbean.com/e/day079-year5/)
+    - @ Deuteronomy 28
+    - @ Deuteronomy 29
+- [ ] #BibleRecap [Day 080 - Deuteronomy 30-31](https://thebiblerecap.podbean.com/e/day080-year5/)
+    - @ Deuteronomy 30
+    - @ Deuteronomy 31
+- [ ] #BibleRecap [Day 081 - Deuteronomy 32-34, Psalm 91](https://thebiblerecap.podbean.com/e/day081-year5/)
+    - @ Deuteronomy 32
+    - @ Deuteronomy 33
+    - @ Deuteronomy 34
+    - @ Psalm 91
+- [ ] #BibleRecap [Day 082 - Joshua 1-4](https://thebiblerecap.podbean.com/e/day082-year5/)
+    - @ Joshua 1
+    - @ Joshua 2
+    - @ Joshua 3
+    - @ Joshua 4
+- [ ] #BibleRecap [Day 083 - Joshua 5-8](https://thebiblerecap.podbean.com/e/day083-year5/)
+    - @ Joshua 5
+    - @ Joshua 6
+    - @ Joshua 7
+    - @ Joshua 8
+- [ ] #BibleRecap [Day 084 - Joshua 9-11](https://thebiblerecap.podbean.com/e/day084-year5/)
+    - @ Joshua 9
+    - @ Joshua 10
+    - @ Joshua 11
+- [ ] #BibleRecap [Day 085 - Joshua 12-15](https://thebiblerecap.podbean.com/e/day085-year5/)
+    - @ Joshua 12
+    - @ Joshua 13
+    - @ Joshua 14
+    - @ Joshua 15
+- [ ] #BibleRecap [Day 086 - Joshua 16-18](https://thebiblerecap.podbean.com/e/day086-year5/)
+    - @ Joshua 16
+    - @ Joshua 17
+    - @ Joshua 18
+- [ ] #BibleRecap [Day 087 - Joshua 19-21](https://thebiblerecap.podbean.com/e/day087-year5/)
+    - @ Joshua 19
+    - @ Joshua 20
+    - @ Joshua 21
+- [ ] #BibleRecap [Day 088 - Joshua 22-24](https://thebiblerecap.podbean.com/e/day088-year5/)
+    - @ Joshua 22
+    - @ Joshua 23
+    - @ Joshua 24
+- [ ] #BibleRecap [Day 089 - Judges 1-2](https://thebiblerecap.podbean.com/e/day089-year5/)
+    - @ Judges 1
+    - @ Judges 2
+- [ ] #BibleRecap [Day 090 - Judges 3-5](https://thebiblerecap.podbean.com/e/day090-year5/)
+    - @ Judges 3
+    - @ Judges 4
+    - @ Judges 5
+- [ ] #BibleRecap [Day 091 - Judges 6-7](https://thebiblerecap.podbean.com/e/day091-year5/)
+    - @ Judges 6
+    - @ Judges 7
+- [ ] #BibleRecap [Day 092 - Judges 8-9](https://thebiblerecap.podbean.com/e/day092-year5/)
+    - @ Judges 8
+    - @ Judges 9
+- [ ] #BibleRecap [Day 093 - Judges 10-12](https://thebiblerecap.podbean.com/e/day093-year5/)
+    - @ Judges 10
+    - @ Judges 11
+    - @ Judges 12
+- [ ] #BibleRecap [Day 094 - Judges 13-15](https://thebiblerecap.podbean.com/e/day094-yea5/)
+    - @ Judges 13
+    - @ Judges 14
+    - @ Judges 15
+- [ ] #BibleRecap [Day 095 - Judges 16-18](https://thebiblerecap.podbean.com/e/day095-year5/)
+    - @ Judges 16
+    - @ Judges 17
+    - @ Judges 18
+- [ ] #BibleRecap [Day 096 - Judges 19-21](https://thebiblerecap.podbean.com/e/day096-year5/)
+    - @ Judges 19
+    - @ Judges 20
+    - @ Judges 21
+- [ ] #BibleRecap [Day 097 - Ruth 1-4](https://thebiblerecap.podbean.com/e/day097-year5/)
+    - @ Ruth 1
+    - @ Ruth 2
+    - @ Ruth 3
+    - @ Ruth 4
+- [ ] #BibleRecap [Day 098 - 1 Samuel 1-3](https://thebiblerecap.podbean.com/e/day098-year5/)
+    - @ 1Samuel 1
+    - @ 1Samuel 2
+    - @ 1Samuel 3
+- [ ] #BibleRecap [Day 099 - 1 Samuel 4-8](https://thebiblerecap.podbean.com/e/day099-year5/)
+    - @ 1Samuel 4
+    - @ 1Samuel 5
+    - @ 1Samuel 6
+    - @ 1Samuel 7
+    - @ 1Samuel 8
+- [ ] #BibleRecap [Day 100 - 1 Samuel 9-12](https://thebiblerecap.podbean.com/e/day100-year5/)
+    - @ 1Samuel 9
+    - @ 1Samuel 10
+    - @ 1Samuel 11
+    - @ 1Samuel 12
+- [ ] #BibleRecap [Day 101 - 1 Samuel 13-14](https://thebiblerecap.podbean.com/e/day101-year5/)
+    - @ 1Samuel 13
+    - @ 1Samuel 14
+- [ ] #BibleRecap [Day 102 - 1 Samuel 15-17](https://thebiblerecap.podbean.com/e/day102-year5/)
+    - @ 1Samuel 15
+    - @ 1Samuel 16
+    - @ 1Samuel 17
+- [ ] #BibleRecap [Day 103 - 1 Samuel 18-20, Psalm 11, Psalm 59](https://thebiblerecap.podbean.com/e/day103-year5/)
+    - @ 1Samuel 18
+    - @ 1Samuel 19
+    - @ 1Samuel 20
+    - @ Psalm 11
+    - @ Psalm 59
+- [ ] #BibleRecap [Day 104 - 1 Samuel 21-24](https://thebiblerecap.podbean.com/e/day104-year5/)
+    - @ 1Samuel 21
+    - @ 1Samuel 22
+    - @ 1Samuel 23
+    - @ 1Samuel 24
+- [ ] #BibleRecap [Day 105 - Psalm 7, 27, 31, 34, 52](https://thebiblerecap.podbean.com/e/day105-year5/)
+    - @ Psalm 7
+    - @ Psalm 27
+    - @ Psalm 31
+    - @ Psalm 34
+    - @ Psalm 52
+- [ ] #BibleRecap [Day 106 - Psalm 56, 120, 140-142](https://thebiblerecap.podbean.com/e/day106-year5/)
+    - @ Psalm 56
+    - @ Psalm 120
+    - @ Psalm 140
+    - @ Psalm 141
+    - @ Psalm 142
+- [ ] #BibleRecap [Day 107 - 1 Samuel 25-27](https://thebiblerecap.podbean.com/e/day107-year5/)
+    - @ 1Samuel 25
+    - @ 1Samuel 26
+    - @ 1Samuel 27
+- [ ] #BibleRecap [Day 108 - Psalm 17, 35, 54, 63](https://thebiblerecap.podbean.com/e/day108-year5/)
+    - @ Psalm 17
+    - @ Psalm 35
+    - @ Psalm 54
+    - @ Psalm 63
+- [ ] #BibleRecap [Day 109 - 1 Samuel 28-31, Psalm 18](https://thebiblerecap.podbean.com/e/day109-year5/)
+    - @ 1Samuel 28
+    - @ 1Samuel 29
+    - @ 1Samuel 30
+    - @ 1Samuel 31
+    - @ Psalm 18
+- [ ] #BibleRecap [Day 110 - Psalm 121, 123-125, 128-130](https://thebiblerecap.podbean.com/e/day110-year5/)
+    - @ Psalm 121
+    - @ Psalm 123
+    - @ Psalm 124
+    - @ Psalm 125
+    - @ Psalm 128
+    - @ Psalm 129
+    - @ Psalm 130
+- [ ] #BibleRecap [Day 111 - 2 Samuel 1-4](https://thebiblerecap.podbean.com/e/day111-year5/)
+    - @ 2Samuel 1
+    - @ 2Samuel 2
+    - @ 2Samuel 3
+    - @ 2Samuel 4
+- [ ] #BibleRecap [Day 112 - Psalm 6, 8-10, 14, 16, 19, 21](https://thebiblerecap.podbean.com/e/day112-year5/)
+    - @ Psalm 6
+    - @ Psalm 8
+    - @ Psalm 9
+    - @ Psalm 10
+    - @ Psalm 14
+    - @ Psalm 16
+    - @ Psalm 19
+    - @ Psalm 21
+- [ ] #BibleRecap [Day 113 - 1 Chronicles 1-2](https://thebiblerecap.podbean.com/e/day113-year5/)
+    - @ 1Chronicles 1
+    - @ 1Chronicles 2
+- [ ] #BibleRecap [Day 114 - Psalm 43-45, 49, 84-85, 87](https://thebiblerecap.podbean.com/e/day114-year5/)
+    - @ Psalm 43
+    - @ Psalm 44
+    - @ Psalm 45
+    - @ Psalm 49
+    - @ Psalm 84
+    - @ Psalm 85
+    - @ Psalm 87
+- [ ] #BibleRecap [Day 115 - 1 Chronicles 3-5](https://thebiblerecap.podbean.com/e/day115-year5/)
+    - @ 1Chronicles 3
+    - @ 1Chronicles 4
+    - @ 1Chronicles 5
+- [ ] #BibleRecap [Day 116 - Psalm 73, 77-78](https://thebiblerecap.podbean.com/e/day-116-psalm-73-77-78-year-5/)
+    - @ Psalm 73
+    - @ Psalm 77
+    - @ Psalm 78
+- [ ] #BibleRecap [Day 117 - 1 Chronicles 6](https://thebiblerecap.podbean.com/e/day117-year5/)
+    - @ 1Chronicles 6
+- [ ] #BibleRecap [Day 118 - Psalm 81, 88, 92-93](https://thebiblerecap.podbean.com/e/day-118-psalm-81-88-92-93-year-5/)
+    - @ Psalm 81
+    - @ Psalm 88
+    - @ Psalm 92
+    - @ Psalm 93
+- [ ] #BibleRecap [Day 119 - 1 Chronicles 7-10](https://thebiblerecap.podbean.com/e/day-119-1-chronicles-7-10-year-5/)
+    - @ 1Chronicles 7
+    - @ 1Chronicles 8
+    - @ 1Chronicles 9
+    - @ 1Chronicles 10
+- [ ] #BibleRecap [Day 120 - Psalm 102-104](https://thebiblerecap.podbean.com/e/day-120-psalm-102-104-year-5/)
+    - @ Psalm 102
+    - @ Psalm 103
+    - @ Psalm 104
+- [ ] #BibleRecap [Day 121 - 2 Samuel 5, 1 Chronicles 11-12](https://thebiblerecap.podbean.com/e/day-121-2-samuel-5-1-chronicles-11-12-year-5/)
+    - @ 2Samuel 5
+    - @ 1Chronicles 11
+    - @ 1Chronicles 12
+- [ ] #BibleRecap [Day 122 - Psalm 133](https://thebiblerecap.podbean.com/e/day-122-psalm-133-year-5/)
+    - @ Psalm 133
+- [ ] #BibleRecap [Day 123 - Psalm 106-107](https://thebiblerecap.podbean.com/e/day-123-psalm-106-107-year-5/)
+    - @ Psalm 106
+    - @ Psalm 107
+- [ ] #BibleRecap [Day 124 - 1 Chronicles 13-16](https://thebiblerecap.podbean.com/e/day-124-1-chronicles-13-16-year-5/)
+    - @ 1Chronicles 13
+    - @ 1Chronicles 14
+    - @ 1Chronicles 15
+    - @ 1Chronicles 16
+- [ ] #BibleRecap [Day 125 - Psalm 1-2, 15, 22-24, 47, 68](https://thebiblerecap.podbean.com/e/day-125-psalm-1-2-15-22-24-47-68-year-5/)
+    - @ Psalm 1
+    - @ Psalm 2
+    - @ Psalm 15
+    - @ Psalm 22
+    - @ Psalm 23
+    - @ Psalm 24
+    - @ Psalm 47
+    - @ Psalm 68
+- [ ] #BibleRecap [Day 126 - Psalm 89, 96, 100-101, 105, 132](https://thebiblerecap.podbean.com/e/day-126-psalm-89-96-100-101-105-132-year-5/)
+    - @ Psalm 89
+    - @ Psalm 96
+    - @ Psalm 100
+    - @ Psalm 101
+    - @ Psalm 105
+    - @ Psalm 132
+- [ ] #BibleRecap [Day 127 - 2 Samuel 6-7, 1 Chronicles 17](https://thebiblerecap.podbean.com/e/day-127-2-samuel-6-7-1-chronicles-17-year-5/)
+    - @ 2Samuel 6
+    - @ 2Samuel 7
+    - @ 1Chronicles 17
+- [ ] #BibleRecap [Day 128 - Psalm 25, 29, 33, 36, 39](https://thebiblerecap.podbean.com/e/day128-year5/)
+    - @ Psalm 25
+    - @ Psalm 29
+    - @ Psalm 33
+    - @ Psalm 36
+    - @ Psalm 39
+- [ ] #BibleRecap [Day 129 - 2 Samuel 8-9, 1 Chronicles 18](https://thebiblerecap.podbean.com/e/day129-year5/)
+    - @ 2Samuel 8
+    - @ 2Samuel 9
+    - @ 1Chronicles 18
+- [ ] #BibleRecap [Day 130 - Psalm 50, 53, 60, 75](https://thebiblerecap.podbean.com/e/day130-year5/)
+    - @ Psalm 50
+    - @ Psalm 53
+    - @ Psalm 60
+    - @ Psalm 75
+- [ ] #BibleRecap [Day 131 - 2 Samuel 10, 1 Chronicles 19, Psalm 20](https://thebiblerecap.podbean.com/e/day131-year5/)
+    - @ 2Samuel 10
+    - @ 1Chronicles 19
+    - @ Psalm 20
+- [ ] #BibleRecap [Day 132 - Psalm 65-67, 69, 70](https://thebiblerecap.podbean.com/e/day132-year5/)
+    - @ Psalm 65
+    - @ Psalm 66
+    - @ Psalm 67
+    - @ Psalm 69
+    - @ Psalm 70
+- [ ] #BibleRecap [Day 133 - 2 Samuel 11-12, 1 Chronicles 20](https://thebiblerecap.podbean.com/e/day133-year5/)
+    - @ 2Samuel 11
+    - @ 2Samuel 12
+    - @ 1Chronicles 20
+- [ ] #BibleRecap [Day 134 - Psalm 32, 51, 86, 122](https://thebiblerecap.podbean.com/e/day134-year5/)
+    - @ Psalm 32
+    - @ Psalm 51
+    - @ Psalm 86
+    - @ Psalm 122
+- [ ] #BibleRecap [Day 135 - 2 Samuel 13-15](https://thebiblerecap.podbean.com/e/day-135-2-samuel-13-15-year-5/)
+    - @ 2Samuel 13
+    - @ 2Samuel 14
+    - @ 2Samuel 15
+- [ ] #BibleRecap [Day 136 - Psalm 3-4, 12-13, 28, 55](https://thebiblerecap.podbean.com/e/day-136-psalm-3-4-12-13-28-55-year-5/)
+    - @ Psalm 3
+    - @ Psalm 4
+    - @ Psalm 12
+    - @ Psalm 13
+    - @ Psalm 28
+    - @ Psalm 55
+- [ ] #BibleRecap [Day 137 - 2 Samuel 16-18](https://thebiblerecap.podbean.com/e/day137-year5/)
+    - @ 2Samuel 16
+    - @ 2Samuel 17
+    - @ 2Samuel 18
+- [ ] #BibleRecap [Day 138 - Psalm 26, 40, 58, 61-62, 64](https://thebiblerecap.podbean.com/e/day138-year5/)
+    - @ Psalm 26
+    - @ Psalm 40
+    - @ Psalm 58
+    - @ Psalm 61
+    - @ Psalm 62
+    - @ Psalm 64
+- [ ] #BibleRecap [Day 139 - 2 Samuel 19-21](https://thebiblerecap.podbean.com/e/day139-year5/)
+    - @ 2Samuel 19
+    - @ 2Samuel 20
+    - @ 2Samuel 21
+- [ ] #BibleRecap [Day 140 - Psalm 5, 38, 41-42](https://thebiblerecap.podbean.com/e/day140-year5/)
+    - @ Psalm 5
+    - @ Psalm 38
+    - @ Psalm 41
+    - @ Psalm 42
+- [ ] #BibleRecap [Day 141 - 2 Samuel 22-23, Psalm 57](https://thebiblerecap.podbean.com/e/day141-year5/)
+    - @ 2Samuel 22
+    - @ 2Samuel 23
+    - @ Psalm 57
+- [ ] #BibleRecap [Day 142 - Psalm 95, 97-99](https://thebiblerecap.podbean.com/e/day142-year5/)
+    - @ Psalm 95
+    - @ Psalm 97
+    - @ Psalm 98
+    - @ Psalm 99
+- [ ] #BibleRecap [Day 143 - 2 Samuel 24, 1 Chronicles 21-22, Psalm 30](https://thebiblerecap.podbean.com/e/day143-year5/)
+    - @ 2Samuel 24
+    - @ 1Chronicles 21
+    - @ 1Chronicles 22
+    - @ Psalm 30
+- [ ] #BibleRecap [Day 144 - Psalm 108-110](https://thebiblerecap.podbean.com/e/day144-year5/)
+    - @ Psalm 108
+    - @ Psalm 109
+    - @ Psalm 110
+- [ ] #BibleRecap [Day 145 - 1 Chronicles 23-25](https://thebiblerecap.podbean.com/e/day145-year5/)
+    - @ 1Chronicles 23
+    - @ 1Chronicles 24
+    - @ 1Chronicles 25
+- [ ] #BibleRecap [Day 146 - Psalm 131, 138-139, 143-145](https://thebiblerecap.podbean.com/e/day146-year5/)
+    - @ Psalm 131
+    - @ Psalm 138
+    - @ Psalm 139
+    - @ Psalm 143
+    - @ Psalm 144
+    - @ Psalm 145
+- [ ] #BibleRecap [Day 147 - 1 Chronicles 26-29, Psalm 127](https://thebiblerecap.podbean.com/e/day147-year5/)
+    - @ 1Chronicles 26
+    - @ 1Chronicles 27
+    - @ 1Chronicles 28
+    - @ 1Chronicles 29
+    - @ Psalm 127
+- [ ] #BibleRecap [Day 148 - Psalm 111-118](https://thebiblerecap.podbean.com/e/day148-year5/)
+    - @ Psalm 111
+    - @ Psalm 112
+    - @ Psalm 113
+    - @ Psalm 114
+    - @ Psalm 115
+    - @ Psalm 116
+    - @ Psalm 117
+    - @ Psalm 118
+- [ ] #BibleRecap [Day 149 - 1 Kings 1-2, Psalm 37, 71, 94](https://thebiblerecap.podbean.com/e/day149-year5/)
+    - @ 1Kings 1
+    - @ 1Kings 2
+    - @ Psalm 37
+    - @ Psalm 71
+    - @ Psalm 94
+- [ ] #BibleRecap [Day 150 - Psalm 119](https://thebiblerecap.podbean.com/e/day150-year5/)
+    - @ Psalm 119
+- [ ] #BibleRecap [Day 151 - 1 Kings 3-4](https://thebiblerecap.podbean.com/e/day151-year5/)
+    - @ 1Kings 3
+    - @ 1Kings 4
+- [ ] #BibleRecap [Day 152 - 2 Chronicles 1, Psalm 72](https://thebiblerecap.podbean.com/e/day152-year5/)
+    - @ 2Chronicles 1
+    - @ Psalm 72
+- [ ] #BibleRecap [Day 153 - Song of Solomon 1-8](https://thebiblerecap.podbean.com/e/day153-year5/)
+    - @ Songofsolomon 1
+    - @ Songofsolomon 2
+    - @ Songofsolomon 3
+    - @ Songofsolomon 4
+    - @ Songofsolomon 5
+    - @ Songofsolomon 6
+    - @ Songofsolomon 7
+    - @ Songofsolomon 8
+- [ ] #BibleRecap [Day 154 - Proverbs 1-3](https://thebiblerecap.podbean.com/e/day154-year5/)
+    - @ Proverbs 1
+    - @ Proverbs 2
+    - @ Proverbs 3
+- [ ] #BibleRecap [Day 155 - Proverbs 4-6](https://thebiblerecap.podbean.com/e/day155-year5/)
+    - @ Proverbs 4
+    - @ Proverbs 5
+    - @ Proverbs 6
+- [ ] #BibleRecap [Day 156 - Proverbs 7-9](https://thebiblerecap.podbean.com/e/day-156-proverbs-7-9-year-5/)
+    - @ Proverbs 7
+    - @ Proverbs 8
+    - @ Proverbs 9
+- [ ] #BibleRecap [Day 157 - Proverbs 10-12](https://thebiblerecap.podbean.com/e/day157-year5/)
+    - @ Proverbs 10
+    - @ Proverbs 11
+    - @ Proverbs 12
+- [ ] #BibleRecap [Day 158 - Proverbs 13-15](https://thebiblerecap.podbean.com/e/day158-year5/)
+    - @ Proverbs 13
+    - @ Proverbs 14
+    - @ Proverbs 15
+- [ ] #BibleRecap [Day 159 - Proverbs 16-18](https://thebiblerecap.podbean.com/e/day159-year5/)
+    - @ Proverbs 16
+    - @ Proverbs 17
+    - @ Proverbs 18
+- [ ] #BibleRecap [Day 160 - Proverbs 19-21](https://thebiblerecap.podbean.com/e/day160-year5/)
+    - @ Proverbs 19
+    - @ Proverbs 20
+    - @ Proverbs 21
+- [ ] #BibleRecap [Day 161 - Proverbs 22-24](https://thebiblerecap.podbean.com/e/day161-year5/)
+    - @ Proverbs 22
+    - @ Proverbs 23
+    - @ Proverbs 24
+- [ ] #BibleRecap [Day 162 - 1 Kings 5-6, 2 Chronicles 2-3](https://thebiblerecap.podbean.com/e/day162-year5/)
+    - @ 1Kings 5
+    - @ 1Kings 6
+    - @ 2Chronicles 2
+    - @ 2Chronicles 3
+- [ ] #BibleRecap [Day 163 - 1 Kings 7, 2 Chronicles 4](https://thebiblerecap.podbean.com/e/day163-year5/)
+    - @ 1Kings 7
+    - @ 2Chronicles 4
+- [ ] #BibleRecap [Day 164 - 1 Kings 8, 2 Chronicles 5](https://thebiblerecap.podbean.com/e/day164-year5/)
+    - @ 1Kings 8
+    - @ 2Chronicles 5
+- [ ] #BibleRecap [Day 165 - 2 Chronicles 6-7, Psalm 136](https://thebiblerecap.podbean.com/e/day165-year5/)
+    - @ 2Chronicles 6
+    - @ 2Chronicles 7
+    - @ Psalm 136
+- [ ] #BibleRecap [Day 166 - Psalm 134, 146-150](https://thebiblerecap.podbean.com/e/day166-year5/)
+    - @ Psalm 134
+    - @ Psalm 146
+    - @ Psalm 147
+    - @ Psalm 148
+    - @ Psalm 149
+    - @ Psalm 150
+- [ ] #BibleRecap [Day 167 - 1 Kings 9, 2 Chronicles 8](https://thebiblerecap.podbean.com/e/day167-year5/)
+    - @ 1Kings 9
+    - @ 2Chronicles 8
+- [ ] #BibleRecap [Day 168 - Proverbs 25-26](https://thebiblerecap.podbean.com/e/day168-year5/)
+    - @ Proverbs 25
+    - @ Proverbs 26
+- [ ] #BibleRecap [Day 169 - Proverbs 27-29](https://thebiblerecap.podbean.com/e/day169-year5/)
+    - @ Proverbs 27
+    - @ Proverbs 28
+    - @ Proverbs 29
+- [ ] #BibleRecap [Day 170 - Ecclesiastes 1-6](https://thebiblerecap.podbean.com/e/day-170-ecclesiastes-1-6-year-5/)
+    - @ Ecclesiastes 1
+    - @ Ecclesiastes 2
+    - @ Ecclesiastes 3
+    - @ Ecclesiastes 4
+    - @ Ecclesiastes 5
+    - @ Ecclesiastes 6
+- [ ] #BibleRecap [Day 171 - Ecclesiastes 7-12](https://thebiblerecap.podbean.com/e/day-171-ecclesiastes-7-12-year-5/)
+    - @ Ecclesiastes 7
+    - @ Ecclesiastes 8
+    - @ Ecclesiastes 9
+    - @ Ecclesiastes 10
+    - @ Ecclesiastes 11
+    - @ Ecclesiastes 12
+- [ ] #BibleRecap [Day 172 - 1 Kings 10-11, 2 Chronicles 9](https://thebiblerecap.podbean.com/e/day-172-1-kings-10-11-2-chronicles-9-year-5/)
+    - @ 1Kings 10
+    - @ 1Kings 11
+    - @ 2Chronicles 9
+- [ ] #BibleRecap [Day 173 - Proverbs 30-31](https://thebiblerecap.podbean.com/e/day-173-proverbs-30-31-year-5/)
+    - @ Proverbs 30
+    - @ Proverbs 31
+- [ ] #BibleRecap [Day 174 - 1 Kings 12-14](https://thebiblerecap.podbean.com/e/day-174-1-kings-12-14-year-5/)
+    - @ 1Kings 12
+    - @ 1Kings 13
+    - @ 1Kings 14
+- [ ] #BibleRecap [Day 175 - 2 Chronicles 10-12](https://thebiblerecap.podbean.com/e/day-175-2-chronicles-10-12-year-5/)
+    - @ 2Chronicles 10
+    - @ 2Chronicles 11
+    - @ 2Chronicles 12
+- [ ] #BibleRecap [Day 176 - 1 Kings 15, 2 Chronicles 13-16](https://thebiblerecap.podbean.com/e/day176-year5/)
+    - @ 1Kings 15
+    - @ 2Chronicles 13
+    - @ 2Chronicles 14
+    - @ 2Chronicles 15
+    - @ 2Chronicles 16
+- [ ] #BibleRecap [Day 177 - 1 Kings 16, 2 Chronicles 17](https://thebiblerecap.podbean.com/e/day177-year5/)
+    - @ 1Kings 16
+    - @ 2Chronicles 17
+- [ ] #BibleRecap [Day 178 - 1 Kings 17-19](https://thebiblerecap.podbean.com/e/day178-year5/)
+    - @ 1Kings 17
+    - @ 1Kings 18
+    - @ 1Kings 19
+- [ ] #BibleRecap [Day 179 - 1 Kings 20-21](https://thebiblerecap.podbean.com/e/day179-year5/)
+    - @ 1Kings 20
+    - @ 1Kings 21
+- [ ] #BibleRecap [Day 180 - 1 Kings 22, 2 Chronicles 18](https://thebiblerecap.podbean.com/e/day180-year5/)
+    - @ 1Kings 22
+    - @ 2Chronicles 18
+- [ ] #BibleRecap [Day 181 - 2 Chronicles 19-23](https://thebiblerecap.podbean.com/e/day181-year5/)
+    - @ 2Chronicles 19
+    - @ 2Chronicles 20
+    - @ 2Chronicles 21
+    - @ 2Chronicles 22
+    - @ 2Chronicles 23
+- [ ] #BibleRecap [Day 182 - Obadiah 1, Psalm 82-83](https://thebiblerecap.podbean.com/e/day182-year5/)
+    - @ Obadiah 1
+    - @ Psalm 82
+    - @ Psalm 83
+- [ ] #BibleRecap [Day 183 - 2 Kings 1-4](https://thebiblerecap.podbean.com/e/day183-year5/)
+    - @ 2Kings 1
+    - @ 2Kings 2
+    - @ 2Kings 3
+    - @ 2Kings 4
+- [ ] #BibleRecap [Day 184 - 2 Kings 5-8](https://thebiblerecap.podbean.com/e/day184-year5/)
+    - @ 2Kings 5
+    - @ 2Kings 6
+    - @ 2Kings 7
+    - @ 2Kings 8
+- [ ] #BibleRecap [Day 185 - 2 Kings 9-11](https://thebiblerecap.podbean.com/e/day185-year5/)
+    - @ 2Kings 9
+    - @ 2Kings 10
+    - @ 2Kings 11
+- [ ] #BibleRecap [Day 186 - 2 Kings 12-13, 2 Chronicles 24](https://thebiblerecap.podbean.com/e/day186-year5/)
+    - @ 2Kings 12
+    - @ 2Kings 13
+- [ ] #BibleRecap [Day 187 - 2 Kings 14, 2 Chronicles 25](https://thebiblerecap.podbean.com/e/day187-year5/)
+    - @ 2Kings 14
+    - @ 2Chronicles 25
+- [ ] #BibleRecap [Day 188 - Jonah 1-4](https://thebiblerecap.podbean.com/e/day188-year5/)
+    - @ Jonah 1
+    - @ Jonah 2
+    - @ Jonah 3
+    - @ Jonah 4
+- [ ] #BibleRecap [Day 189 - 2 Kings 15, 2 Chronicles 26](https://thebiblerecap.podbean.com/e/day189-year5/)
+    - @ 2Kings 15
+    - @ 2Chronicles 26
+- [ ] #BibleRecap [Day 190 - Isaiah 1-4](https://thebiblerecap.podbean.com/e/190-year5/)
+    - @ Isaiah 1
+    - @ Isaiah 2
+    - @ Isaiah 3
+    - @ Isaiah 4
+- [ ] #BibleRecap [Day 191 - Isaiah 5-8](https://thebiblerecap.podbean.com/e/day191-year5/)
+    - @ Isaiah 5
+    - @ Isaiah 6
+    - @ Isaiah 7
+    - @ Isaiah 8
+- [ ] #BibleRecap [Day 192 - Amos 1-5](https://thebiblerecap.podbean.com/e/day192-year5/)
+    - @ Amos 1
+    - @ Amos 2
+    - @ Amos 3
+    - @ Amos 4
+    - @ Amos 5
+- [ ] #BibleRecap [Day 193 - Amos 6-9](https://thebiblerecap.podbean.com/e/day193-year5/)
+    - @ Amos 6
+    - @ Amos 7
+    - @ Amos 8
+    - @ Amos 9
+- [ ] #BibleRecap [Day 194 - 2 Chronicles 27, Isaiah 9-12](https://thebiblerecap.podbean.com/e/day194-year5/)
+    - @ 2Chronicles 27
+    - @ Isaiah 9
+    - @ Isaiah 10
+    - @ Isaiah 11
+    - @ Isaiah 12
+- [ ] #BibleRecap [Day 195 - Micah 1-7](https://thebiblerecap.podbean.com/e/day195-year5/)
+    - @ Micah 1
+    - @ Micah 2
+    - @ Micah 3
+    - @ Micah 4
+    - @ Micah 5
+    - @ Micah 6
+    - @ Micah 7
+- [ ] #BibleRecap [Day 196 - 2 Chronicles 28, 2 Kings 16-17](https://thebiblerecap.podbean.com/e/day196-year5/)
+    - @ 2Chronicles 28
+    - @ 2Kings 16
+    - @ 2Kings 17
+- [ ] #BibleRecap [Day 197 - Isaiah 13-17](https://thebiblerecap.podbean.com/e/day197-year5/)
+    - @ Isaiah 13
+    - @ Isaiah 14
+    - @ Isaiah 15
+    - @ Isaiah 16
+    - @ Isaiah 17
+- [ ] #BibleRecap [Day 198 - Isaiah 18-22](https://thebiblerecap.podbean.com/e/day198-year5/)
+    - @ Isaiah 18
+    - @ Isaiah 19
+    - @ Isaiah 20
+    - @ Isaiah 21
+    - @ Isaiah 22
+- [ ] #BibleRecap [Day 199 - Isaiah 23-27](https://thebiblerecap.podbean.com/e/day199-year5/)
+    - @ Isaiah 23
+    - @ Isaiah 24
+    - @ Isaiah 25
+    - @ Isaiah 26
+    - @ Isaiah 27
+- [ ] #BibleRecap [Day 200 - 2 Kings 18, 2 Chronicles 29-31, Psalm 48](https://thebiblerecap.podbean.com/e/day200-year5/)
+    - @ 2Kings 18
+    - @ 2Chronicles 29
+    - @ 2Chronicles 30
+    - @ 2Chronicles 31
+    - @ Psalm 48
+- [ ] #BibleRecap [Day 201 - Hosea 1-7](https://thebiblerecap.podbean.com/e/day201-year5/)
+    - @ Hosea 1
+    - @ Hosea 2
+    - @ Hosea 3
+    - @ Hosea 4
+    - @ Hosea 5
+    - @ Hosea 6
+    - @ Hosea 7
+- [ ] #BibleRecap [Day 202 - Hosea 8-14](https://thebiblerecap.podbean.com/e/day202-year5/)
+    - @ Hosea 8
+    - @ Hosea 9
+    - @ Hosea 10
+    - @ Hosea 11
+    - @ Hosea 12
+    - @ Hosea 13
+    - @ Hosea 14
+- [ ] #BibleRecap [Day 203 - Isaiah 28-30](https://thebiblerecap.podbean.com/e/day203-year5/)
+    - @ Isaiah 28
+    - @ Isaiah 29
+    - @ Isaiah 30
+- [ ] #BibleRecap [Day 204 - Isaiah 31-34](https://thebiblerecap.podbean.com/e/day204-year5/)
+    - @ Isaiah 31
+    - @ Isaiah 32
+    - @ Isaiah 33
+    - @ Isaiah 34
+- [ ] #BibleRecap [Day 205 - Isaiah 35-36](https://thebiblerecap.podbean.com/e/day205-year5/)
+    - @ Isaiah 35
+    - @ Isaiah 36
+- [ ] #BibleRecap [Day 206 - Isaiah 37-39, Psalm 76](https://thebiblerecap.podbean.com/e/day206-year5/)
+    - @ Isaiah 37
+    - @ Isaiah 38
+    - @ Isaiah 39
+    - @ Psalm 76
+- [ ] #BibleRecap [Day 207 - Isaiah 40-43](https://thebiblerecap.podbean.com/e/day207-year5/)
+    - @ Isaiah 40
+    - @ Isaiah 41
+    - @ Isaiah 42
+    - @ Isaiah 43
+- [ ] #BibleRecap [Day 208 - Isaiah 44-48](https://thebiblerecap.podbean.com/e/day208-year5/)
+    - @ Isaiah 44
+    - @ Isaiah 45
+    - @ Isaiah 46
+    - @ Isaiah 47
+    - @ Isaiah 48
+- [ ] #BibleRecap [Day 209 - 2 Kings 19, Psalm 46, 80, 135](https://thebiblerecap.podbean.com/e/day209-year5/)
+    - @ 2Kings 19
+    - @ Psalm 46
+    - @ Psalm 80
+    - @ Psalm 135
+- [ ] #BibleRecap [Day 210 - Isaiah 49-53](https://thebiblerecap.podbean.com/e/day210-year5/)
+    - @ Isaiah 49
+    - @ Isaiah 50
+    - @ Isaiah 51
+    - @ Isaiah 52
+    - @ Isaiah 53
+- [ ] #BibleRecap [Day 211 - Isaiah 54-58](https://thebiblerecap.podbean.com/e/day211-year5/)
+    - @ Isaiah 54
+    - @ Isaiah 55
+    - @ Isaiah 56
+    - @ Isaiah 57
+    - @ Isaiah 58
+- [ ] #BibleRecap [Day 212 - Isaiah 59-63](https://thebiblerecap.podbean.com/e/day212-year5/)
+    - @ Isaiah 59
+    - @ Isaiah 60
+    - @ Isaiah 61
+    - @ Isaiah 62
+    - @ Isaiah 63
+- [ ] #BibleRecap [Day 213 - Isaiah 64-66](https://thebiblerecap.podbean.com/e/day213-year5/)
+    - @ Isaiah 64
+    - @ Isaiah 65
+    - @ Isaiah 66
+- [ ] #BibleRecap [Day 214 - 2 Kings 20-21](https://thebiblerecap.podbean.com/e/day214-year5/)
+    - @ 2Kings 20
+    - @ 2Kings 21
+- [ ] #BibleRecap [Day 215 - 2 Chronicles 32-33](https://thebiblerecap.podbean.com/e/day215-year5/)
+    - @ 2Chronicles 32
+    - @ 2Chronicles 33
+- [ ] #BibleRecap [Day 216 - Nahum 1-3](https://thebiblerecap.podbean.com/e/day216-year5/)
+    - @ Nahum 1
+    - @ Nahum 2
+    - @ Nahum 3
+- [ ] #BibleRecap [Day 217 - 2 Kings 22-23, 2 Chronicles 34-35](https://thebiblerecap.podbean.com/e/day217-year5/)
+    - @ 2Kings 22
+    - @ 2Kings 23
+    - @ 2Chronicles 34
+    - @ 2Chronicles 35
+- [ ] #BibleRecap [Day 218 - Zephaniah 1-3](https://thebiblerecap.podbean.com/e/day218-year5/)
+    - @ Zephaniah 1
+    - @ Zephaniah 2
+    - @ Zephaniah 3
+- [ ] #BibleRecap [Day 219 - Jeremiah 1-3](https://thebiblerecap.podbean.com/e/day219-year5/)
+    - @ Jeremiah 1
+    - @ Jeremiah 2
+    - @ Jeremiah 3
+- [ ] #BibleRecap [Day 220 - Jeremiah 4-6](https://thebiblerecap.podbean.com/e/day220-year5/)
+    - @ Jeremiah 4
+    - @ Jeremiah 5
+    - @ Jeremiah 6
+- [ ] #BibleRecap [Day 221 - Jeremiah 7-9](https://thebiblerecap.podbean.com/e/day221-year5/)
+    - @ Jeremiah 7
+    - @ Jeremiah 8
+    - @ Jeremiah 9
+- [ ] #BibleRecap [Day 222 - Jeremiah 10-13](https://thebiblerecap.podbean.com/e/day222-year5/)
+    - @ Jeremiah 10
+    - @ Jeremiah 11
+    - @ Jeremiah 12
+    - @ Jeremiah 13
+- [ ] #BibleRecap [Day 223 - Jeremiah 14-17](https://thebiblerecap.podbean.com/e/day223-year5/)
+    - @ Jeremiah 14
+    - @ Jeremiah 15
+    - @ Jeremiah 16
+    - @ Jeremiah 17
+- [ ] #BibleRecap [Day 224 - Jeremiah 18-22](https://thebiblerecap.podbean.com/e/day224-year5/)
+    - @ Jeremiah 18
+    - @ Jeremiah 19
+    - @ Jeremiah 20
+    - @ Jeremiah 21
+    - @ Jeremiah 22
+- [ ] #BibleRecap [Day 225 - Jeremiah 23-25](https://thebiblerecap.podbean.com/e/day225-year5/)
+    - @ Jeremiah 23
+    - @ Jeremiah 24
+    - @ Jeremiah 25
+- [ ] #BibleRecap [Day 226 - Jeremiah 26-29](https://thebiblerecap.podbean.com/e/day226-year5/)
+    - @ Jeremiah 26
+    - @ Jeremiah 27
+    - @ Jeremiah 28
+    - @ Jeremiah 29
+- [ ] #BibleRecap [Day 227 - Jeremiah 30-31](https://thebiblerecap.podbean.com/e/day227-year5/)
+    - @ Jeremiah 30
+    - @ Jeremiah 31
+- [ ] #BibleRecap [Day 228 - Jeremiah 32-34](https://thebiblerecap.podbean.com/e/day228-year5/)
+    - @ Jeremiah 32
+    - @ Jeremiah 33
+    - @ Jeremiah 34
+- [ ] #BibleRecap [Day 229 - Jeremiah 35-37](https://thebiblerecap.podbean.com/e/day229-year5/)
+    - @ Jeremiah 35
+    - @ Jeremiah 36
+    - @ Jeremiah 37
+- [ ] #BibleRecap [Day 230 - Jeremiah 38-40, Psalm 74, 79](https://thebiblerecap.podbean.com/e/day230-year5/)
+    - @ Jeremiah 38
+    - @ Jeremiah 39
+    - @ Jeremiah 40
+    - @ Psalm 74
+    - @ Psalm 79
+- [ ] #BibleRecap [Day 231 - 2 Kings 24-25, 2 Chronicles 36](https://thebiblerecap.podbean.com/e/day231-year5/)
+    - @ 2Kings 24
+    - @ 2Kings 25
+    - @ 2Chronicles 36
+- [ ] #BibleRecap [Day 232 - Habakkuk 1-3](https://thebiblerecap.podbean.com/e/day232-year5/)
+    - @ Habakkuk 1
+    - @ Habakkuk 2
+    - @ Habakkuk 3
+- [ ] #BibleRecap [Day 233 - Jeremiah 41-45](https://thebiblerecap.podbean.com/e/day233-year5/)
+    - @ Jeremiah 41
+    - @ Jeremiah 42
+    - @ Jeremiah 43
+    - @ Jeremiah 44
+    - @ Jeremiah 45
+- [ ] #BibleRecap [Day 234 - Jeremiah 46-48](https://thebiblerecap.podbean.com/e/day234-year5/)
+    - @ Jeremiah 46
+    - @ Jeremiah 47
+    - @ Jeremiah 48
+- [ ] #BibleRecap [Day 235 - Jeremiah 49-50](https://thebiblerecap.podbean.com/e/day235-year5/)
+    - @ Jeremiah 49
+    - @ Jeremiah 50
+- [ ] #BibleRecap [Day 236 - Jeremiah 51-52](https://thebiblerecap.podbean.com/e/day236-year5/)
+    - @ Jeremiah 51
+    - @ Jeremiah 52
+- [ ] #BibleRecap [Day 237 - Lamentations 1-2](https://thebiblerecap.podbean.com/e/day237-year5/)
+    - @ Lamentations 1
+    - @ Lamentations 2
+- [ ] #BibleRecap [Day 238 - Lamentations 3-5](https://thebiblerecap.podbean.com/e/day238-year5/)
+    - @ Lamentations 3
+    - @ Lamentations 4
+    - @ Lamentations 5
+- [ ] #BibleRecap [Day 239 - Ezekiel 1-4](https://thebiblerecap.podbean.com/e/day239-year5/)
+    - @ Ezekiel 1
+    - @ Ezekiel 2
+    - @ Ezekiel 3
+    - @ Ezekiel 4
+- [ ] #BibleRecap [Day 240 - Ezekiel 5-8](https://thebiblerecap.podbean.com/e/day240-year5/)
+    - @ Ezekiel 5
+    - @ Ezekiel 6
+    - @ Ezekiel 7
+    - @ Ezekiel 8
+- [ ] #BibleRecap [Day 241 - Ezekiel 9-12](https://thebiblerecap.podbean.com/e/day241-year5/)
+    - @ Ezekiel 9
+    - @ Ezekiel 10
+    - @ Ezekiel 11
+    - @ Ezekiel 12
+- [ ] #BibleRecap [Day 242 - Ezekiel 13-15](https://thebiblerecap.podbean.com/e/day242-year5/)
+    - @ Ezekiel 13
+    - @ Ezekiel 14
+    - @ Ezekiel 15
+- [ ] #BibleRecap [Day 243 - Ezekiel 16-17](https://thebiblerecap.podbean.com/e/day243-year5/)
+    - @ Ezekiel 16
+    - @ Ezekiel 17
+- [ ] #BibleRecap [Day 244 - Ezekiel 18-20](https://thebiblerecap.podbean.com/e/day244-year5/)
+    - @ Ezekiel 18
+    - @ Ezekiel 19
+    - @ Ezekiel 20
+- [ ] #BibleRecap [Day 245 - Ezekiel 21-22](https://thebiblerecap.podbean.com/e/day245-year5/)
+    - @ Ezekiel 21
+    - @ Ezekiel 22
+- [ ] #BibleRecap [Day 246 - Ezekiel 23-24](https://thebiblerecap.podbean.com/e/day246-year5/)
+    - @ Ezekiel 23
+    - @ Ezekiel 24
+- [ ] #BibleRecap [Day 247 - Ezekiel 25-27](https://thebiblerecap.podbean.com/e/day247-year5/)
+    - @ Ezekiel 25
+    - @ Ezekiel 26
+    - @ Ezekiel 27
+- [ ] #BibleRecap [Day 248 - Ezekiel 28-30](https://thebiblerecap.podbean.com/e/day248-year5/)
+    - @ Ezekiel 28
+    - @ Ezekiel 29
+    - @ Ezekiel 30
+- [ ] #BibleRecap [Day 249 - Ezekiel 31-33](https://thebiblerecap.podbean.com/e/day249-year5/)
+    - @ Ezekiel 31
+    - @ Ezekiel 32
+    - @ Ezekiel 33
+- [ ] #BibleRecap [Day 250 - Ezekiel 34-36](https://thebiblerecap.podbean.com/e/day250-year5/)
+    - @ Ezekiel 34
+    - @ Ezekiel 35
+    - @ Ezekiel 36
+- [ ] #BibleRecap [Day 251 - Ezekiel 37-39](https://thebiblerecap.podbean.com/e/day251-year5/)
+    - @ Ezekiel 37
+    - @ Ezekiel 38
+    - @ Ezekiel 39
+- [ ] #BibleRecap [Day 252 - Ezekiel 40-42](https://thebiblerecap.podbean.com/e/day252-year5/)
+    - @ Ezekiel 40
+    - @ Ezekiel 41
+    - @ Ezekiel 42
+- [ ] #BibleRecap [Day 253 - Ezekiel 43-45](https://thebiblerecap.podbean.com/e/day253-year5/)
+    - @ Ezekiel 43
+    - @ Ezekiel 44
+    - @ Ezekiel 45
+- [ ] #BibleRecap [Day 254 - Ezekiel 46-48](https://thebiblerecap.podbean.com/e/day254-year5/)
+    - @ Ezekiel 46
+    - @ Ezekiel 47
+    - @ Ezekiel 48
+- [ ] #BibleRecap [Day 255 - Joel 1-3](https://thebiblerecap.podbean.com/e/day255-year5/)
+    - @ Joel 1
+    - @ Joel 2
+    - @ Joel 3
+- [ ] #BibleRecap [Day 256 - Daniel 1-3](https://thebiblerecap.podbean.com/e/day256-year5/)
+    - @ Daniel 1
+    - @ Daniel 2
+    - @ Daniel 3
+- [ ] #BibleRecap [Day 257 - Daniel 4-6](https://thebiblerecap.podbean.com/e/day257-year5/)
+    - @ Daniel 4
+    - @ Daniel 5
+    - @ Daniel 6
+- [ ] #BibleRecap [Day 258 - Daniel 7-9](https://thebiblerecap.podbean.com/e/day258-year5/)
+    - @ Daniel 7
+    - @ Daniel 8
+    - @ Daniel 9
+- [ ] #BibleRecap [Day 259 - Daniel 10-12](https://thebiblerecap.podbean.com/e/day259-year5/)
+    - @ Daniel 10
+    - @ Daniel 11
+    - @ Daniel 12
+- [ ] #BibleRecap [Day 260 - Ezra 1-3](https://thebiblerecap.podbean.com/e/day260-year5/)
+    - @ Ezra 1
+    - @ Ezra 2
+    - @ Ezra 3
+- [ ] #BibleRecap [Day 261 - Ezra 4-6, Psalm 137](https://thebiblerecap.podbean.com/e/day261-year5/)
+    - @ Ezra 4
+    - @ Ezra 5
+    - @ Ezra 6
+    - @ Psalm 137
+- [ ] #BibleRecap [Day 262 - Haggai 1-2](https://thebiblerecap.podbean.com/e/day262-year5/)
+    - @ Haggai 1
+    - @ Haggai 2
+- [ ] #BibleRecap [Day 263 - Zechariah 1-4](https://thebiblerecap.podbean.com/e/day263-year5/)
+    - @ Zechariah 1
+    - @ Zechariah 2
+    - @ Zechariah 3
+    - @ Zechariah 4
+- [ ] #BibleRecap [Day 264 - Zechariah 5-9](https://thebiblerecap.podbean.com/e/day264-year5/)
+    - @ Zechariah 5
+    - @ Zechariah 6
+    - @ Zechariah 7
+    - @ Zechariah 8
+    - @ Zechariah 9
+- [ ] #BibleRecap [Day 265 - Zechariah 10-14](https://thebiblerecap.podbean.com/e/day265-year5/)
+    - @ Zechariah 10
+    - @ Zechariah 11
+    - @ Zechariah 12
+    - @ Zechariah 13
+    - @ Zechariah 14
+- [ ] #BibleRecap [Day 266 - Esther 1-5](https://thebiblerecap.podbean.com/e/day266-year5/)
+    - @ Esther 1
+    - @ Esther 2
+    - @ Esther 3
+    - @ Esther 4
+    - @ Esther 5
+- [ ] #BibleRecap [Day 267 - Esther 6-10](https://thebiblerecap.podbean.com/e/day267-year5/)
+    - @ Esther 6
+    - @ Esther 7
+    - @ Esther 8
+    - @ Esther 9
+    - @ Esther 10
+- [ ] #BibleRecap [Day 268 - Ezra 7-10](https://thebiblerecap.podbean.com/e/day268-year5/)
+    - @ Ezra 7
+    - @ Ezra 8
+    - @ Ezra 9
+    - @ Ezra 10
+- [ ] #BibleRecap [Day 269 - Nehemiah 1-5](https://thebiblerecap.podbean.com/e/day269-year5/)
+    - @ Nehemiah 1
+    - @ Nehemiah 2
+    - @ Nehemiah 3
+    - @ Nehemiah 4
+    - @ Nehemiah 5
+- [ ] #BibleRecap [Day 270 - Nehemiah 6-7](https://thebiblerecap.podbean.com/e/day270-year5/)
+    - @ Nehemiah 6
+    - @ Nehemiah 7
+- [ ] #BibleRecap [Day 271 - Nehemiah 8-10](https://thebiblerecap.podbean.com/e/day271-year5/)
+    - @ Nehemiah 8
+    - @ Nehemiah 9
+    - @ Nehemiah 10
+- [ ] #BibleRecap [Day 272 - Nehemiah 11-13, Psalm 126](https://thebiblerecap.podbean.com/e/day272-year5/)
+    - @ Nehemiah 11
+    - @ Nehemiah 12
+    - @ Nehemiah 13
+    - @ Psalm 126
+- [ ] #BibleRecap [Day 273 - Malachi 1-4](https://thebiblerecap.podbean.com/e/day273-year5/)
+    - @ Malachi 1
+    - @ Malachi 2
+    - @ Malachi 3
+    - @ Malachi 4
+- [ ] #BibleRecap [Day 274 - Luke 1, John 1](https://thebiblerecap.podbean.com/e/day274-year5/)
+    - @ Luke 1
+    - @ John 1
+- [ ] #BibleRecap [Day 275 - Matthew 1, Luke 2](https://thebiblerecap.podbean.com/e/day275-year5/)
+    - @ Matthew 1
+    - @ Luke 2
+- [ ] #BibleRecap [Day 276 - Matthew 2](https://thebiblerecap.podbean.com/e/day276-year5/)
+    - @ Matthew 2
+- [ ] #BibleRecap [Day 277 - Matthew 3, Mark 1, Luke 3](https://thebiblerecap.podbean.com/e/day277-year5/)
+    - @ Matthew 3
+    - @ Mark 1
+    - @ Luke 3
+- [ ] #BibleRecap [Day 278 - Matthew 4, Luke 4-5](https://thebiblerecap.podbean.com/e/day278-year5/)
+    - @ Matthew 4
+    - @ Luke 4
+    - @ Luke 5
+- [ ] #BibleRecap [Day 279 - John 2-4](https://thebiblerecap.podbean.com/e/day279-year5/)
+    - @ John 2
+    - @ John 3
+    - @ John 4
+- [ ] #BibleRecap [Day 280 - Matthew 8, Mark 2](https://thebiblerecap.podbean.com/e/day280-year5/)
+    - @ Matthew 8
+    - @ Mark 2
+- [ ] #BibleRecap [Day 281 - John 5](https://thebiblerecap.podbean.com/e/day281-year5/)
+    - @ John 5
+- [ ] #BibleRecap [Day 282 - Matthew 12, Mark 3, Luke 6](https://thebiblerecap.podbean.com/e/day282-year5/)
+    - @ Matthew 12
+    - @ Mark 3
+    - @ Luke 6
+- [ ] #BibleRecap [Day 283 - Matthew 5-7](https://thebiblerecap.podbean.com/e/day283-year5/)
+    - @ Matthew 5
+    - @ Matthew 6
+    - @ Matthew 7
+- [ ] #BibleRecap [Day 284 - Matthew 9, Luke 7](https://thebiblerecap.podbean.com/e/day284-year5/)
+    - @ Matthew 9
+    - @ Luke 7
+- [ ] #BibleRecap [Day 285 - Matthew 11](https://thebiblerecap.podbean.com/e/day285-year5/)
+    - @ Matthew 11
+- [ ] #BibleRecap [Day 286 - Luke 11](https://thebiblerecap.podbean.com/e/day286-year5/)
+    - @ Luke 11
+- [ ] #BibleRecap [Day 287 - Matthew 13, Luke 8](https://thebiblerecap.podbean.com/e/day287-year5/)
+    - @ Matthew 13
+    - @ Luke 8
+- [ ] #BibleRecap [Day 288 - Mark 4-5](https://thebiblerecap.podbean.com/e/day288-year5/)
+    - @ Mark 4
+    - @ Mark 5
+- [ ] #BibleRecap [Day 289 - Matthew 10](https://thebiblerecap.podbean.com/e/day289-year5/)
+    - @ Matthew 10
+- [ ] #BibleRecap [Day 290 - Matthew 14, Mark 6, Luke 9](https://thebiblerecap.podbean.com/e/day290-year5/)
+    - @ Matthew 14
+    - @ Mark 6
+    - @ Luke 9
+- [ ] #BibleRecap [Day 291 - John 6](https://thebiblerecap.podbean.com/e/day291-year5/)
+    - @ John 6
+- [ ] #BibleRecap [Day 292 - Matthew 15, Mark 7](https://thebiblerecap.podbean.com/e/day292-year5/)
+    - @ Matthew 15
+    - @ Mark 7
+- [ ] #BibleRecap [Day 293 - Matthew 16, Mark 8](https://thebiblerecap.podbean.com/e/day293-year5/)
+    - @ Matthew 16
+    - @ Mark 8
+- [ ] #BibleRecap [Day 294 - Matthew 17, Mark 9](https://thebiblerecap.podbean.com/e/day294-year5/)
+    - @ Matthew 17
+    - @ Mark 9
+- [ ] #BibleRecap [Day 295 - Matthew 18](https://thebiblerecap.podbean.com/e/day295-year5/)
+    - @ Matthew 18
+- [ ] #BibleRecap [Day 296 - John 7-8](https://thebiblerecap.podbean.com/e/day296-year5/)
+    - @ John 7
+    - @ John 8
+- [ ] #BibleRecap [Day 297 - John 9-10](https://thebiblerecap.podbean.com/e/day297-year5/)
+    - @ John 9
+    - @ John 10
+- [ ] #BibleRecap [Day 298 - Luke 10](https://thebiblerecap.podbean.com/e/day298-year5/)
+    - @ Luke 10
+- [ ] #BibleRecap [Day 299 - Luke 12-13](https://thebiblerecap.podbean.com/e/day299-year5/)
+    - @ Luke 12
+    - @ Luke 13
+- [ ] #BibleRecap [Day 300 - Luke 14-15](https://thebiblerecap.podbean.com/e/day300-year5/)
+    - @ Luke 14
+    - @ Luke 15
+- [ ] #BibleRecap [Day 301 - Luke 16-17](https://thebiblerecap.podbean.com/e/day301-year5/)
+    - @ Luke 16
+    - @ Luke 17
+- [ ] #BibleRecap [Day 302 - John 11](https://thebiblerecap.podbean.com/e/day302-year5/)
+    - @ John 11
+- [ ] #BibleRecap [Day 303 - Luke 18](https://thebiblerecap.podbean.com/e/day303-year5/)
+    - @ Luke 18
+- [ ] #BibleRecap [Day 304 - Matthew 19, Mark 10](https://thebiblerecap.podbean.com/e/day304-year5/)
+    - @ Matthew 19
+    - @ Mark 10
+- [ ] #BibleRecap [Day 305 - Matthew 20-21](https://thebiblerecap.podbean.com/e/day305-year5/)
+    - @ Matthew 20
+    - @ Matthew 21
+- [ ] #BibleRecap [Day 306 - Luke 19](https://thebiblerecap.podbean.com/e/day306-year5/)
+    - @ Luke 19
+- [ ] #BibleRecap [Day 307 - Mark 11, John 12](https://thebiblerecap.podbean.com/e/day307-year5/)
+    - @ Mark 11
+    - @ John 12
+- [ ] #BibleRecap [Day 308 - Matthew 22, Mark 12](https://thebiblerecap.podbean.com/e/day308-year5/)
+    - @ Matthew 22
+    - @ Mark 12
+- [ ] #BibleRecap [Day 309 - Matthew 23, Luke 20-21](https://thebiblerecap.podbean.com/e/day309-year5/)
+    - @ Matthew 23
+    - @ Luke 20
+    - @ Luke 21
+- [ ] #BibleRecap [Day 310 - Mark 13](https://thebiblerecap.podbean.com/e/day310-year5/)
+    - @ Mark 13
+- [ ] #BibleRecap [Day 311 - Matthew 24](https://thebiblerecap.podbean.com/e/day311-year5/)
+    - @ Matthew 24
+- [ ] #BibleRecap [Day 312 - Matthew 25](https://thebiblerecap.podbean.com/e/day312-year5/)
+    - @ Matthew 25  
+- [ ] #BibleRecap [Day 313 - Matthew 26, Mark 14](https://thebiblerecap.podbean.com/e/day313-year5/)
+    - @ Matthew 26
+    - @ Mark 14
+- [ ] #BibleRecap [Day 314 - Luke 22, John 13](https://thebiblerecap.podbean.com/e/day314-year5/)
+    - @ Luke 22
+    - @ John 13
+- [ ] #BibleRecap [Day 315 - John 14-17 - Year5](https://thebiblerecap.podbean.com/e/day315-year5/)
+    - @ John 14
+    - @ John 15
+    - @ John 16
+    - @ John 17
+- [ ] #BibleRecap [Day 316 - Matthew 27, Mark 15](https://thebiblerecap.podbean.com/e/day316-year5/)
+    - @ Matthew 27
+    - @ Mark 15
+- [ ] #BibleRecap [Day 317 - Luke 23, John 18-19](https://thebiblerecap.podbean.com/e/day317-year5/)
+    - @ Luke 23
+    - @ John 18
+    - @ John 19
+- [ ] #BibleRecap [Day 318 - Matthew 28, Mark 16](https://thebiblerecap.podbean.com/e/day318-year5/)
+    - @ Matthew 28
+    - @ Mark 16
+- [ ] #BibleRecap [Day 319 - Luke 24, John 20-21](https://thebiblerecap.podbean.com/e/day319-year5/)
+    - @ Luke 24
+    - @ John 20
+    - @ John 21
+- [ ] #BibleRecap [Day 320 - Acts 1-3](https://thebiblerecap.podbean.com/e/day320-year5/)
+    - @ Acts 1
+    - @ Acts 2
+    - @ Acts 3
+- [ ] #BibleRecap [Day 321 - Acts 4-6](https://thebiblerecap.podbean.com/e/day321-year5/)
+    - @ Acts 4
+    - @ Acts 5
+    - @ Acts 6
+- [ ] #BibleRecap [Day 322 - Acts 7-8](https://thebiblerecap.podbean.com/e/day322-year5/)
+    - @ Acts 7
+    - @ Acts 8
+- [ ] #BibleRecap [Day 323 - Acts 9-10](https://thebiblerecap.podbean.com/e/day323-year5/)
+    - @ Acts 9
+    - @ Acts 10
+- [ ] #BibleRecap [Day 324 - Acts 11-12](https://thebiblerecap.podbean.com/e/day324-year5/)
+    - @ Acts 11
+    - @ Acts 12
+- [ ] #BibleRecap [Day 325 - Acts 13-14](https://thebiblerecap.podbean.com/e/day325-year5/)
+    - @ Acts 13
+    - @ Acts 14
+- [ ] #BibleRecap [Day 326 - James 1-5](https://thebiblerecap.podbean.com/e/day326-year5/)
+    - @ James 1
+    - @ James 2
+    - @ James 3
+    - @ James 4
+    - @ James 5
+- [ ] #BibleRecap [Day 327 - Acts 15-16](https://thebiblerecap.podbean.com/e/day327-year5/)
+    - @ Acts 15
+    - @ Acts 16
+- [ ] #BibleRecap [Day 328 - Galatians 1-3](https://thebiblerecap.podbean.com/e/day328-year5/)
+    - @ Galatians 1
+    - @ Galatians 2
+    - @ Galatians 3
+- [ ] #BibleRecap [Day 329 - Galatians 4-6](https://thebiblerecap.podbean.com/e/day329-year5/)
+    - @ Galatians 4
+    - @ Galatians 5
+    - @ Galatians 6
+- [ ] #BibleRecap [Day 330 - Acts 17](https://thebiblerecap.podbean.com/e/day330-year5/)
+    - @ Acts 17
+- [ ] #BibleRecap [Day 331 - 1 Thessalonians 1-5, 2 Thessalonians 1-3](https://thebiblerecap.podbean.com/e/day331-year5/)
+    - @ 1Thessalonians 1
+    - @ 1Thessalonians 2
+    - @ 1Thessalonians 3
+    - @ 1Thessalonians 4
+    - @ 1Thessalonians 5
+    - @ 2Thessalonians 1
+    - @ 2Thessalonians 2
+    - @ 2Thessalonians 3
+- [ ] #BibleRecap [Day 332 - Acts 18-19](https://thebiblerecap.podbean.com/e/day332-year5/)
+    - @ Acts 18
+    - @ Acts 19
+- [ ] #BibleRecap [Day 333 - 1 Corinthians 1-4](https://thebiblerecap.podbean.com/e/day333-year5/)
+    - @ 1Corinthians 1
+    - @ 1Corinthians 2
+    - @ 1Corinthians 3
+    - @ 1Corinthians 4
+- [ ] #BibleRecap [Day 334 - 1 Corinthians 5-8](https://thebiblerecap.podbean.com/e/day334-year5/)
+    - @ 1Corinthians 5
+    - @ 1Corinthians 6
+    - @ 1Corinthians 7
+    - @ 1Corinthians 8
+- [ ] #BibleRecap [Day 335 - 1 Corinthians 9-11](https://thebiblerecap.podbean.com/e/day335-year5/)
+    - @ 1Corinthians 9
+    - @ 1Corinthians 10
+    - @ 1Corinthians 11  
+- [ ] #BibleRecap [Day 336 - 1 Corinthians 12-14](https://thebiblerecap.podbean.com/e/day336-year5/)
+    - @ 1Corinthians 12
+    - @ 1Corinthians 13
+    - @ 1Corinthians 14
+- [ ] #BibleRecap [Day 337 - 1 Corinthians 15-16](https://thebiblerecap.podbean.com/e/day337-year5/)
+    - @ 1Corinthians 15
+    - @ 1Corinthians 16
+- [ ] #BibleRecap [Day 338 - 2 Corinthians 1-4](https://thebiblerecap.podbean.com/e/day338-year5/)
+    - @ 2Corinthians 1
+    - @ 2Corinthians 2
+    - @ 2Corinthians 3
+    - @ 2Corinthians 4
+- [ ] #BibleRecap [Day 339 - 2 Corinthians 5-9](https://thebiblerecap.podbean.com/e/day339-year5/)
+    - @ 2Corinthians 5
+    - @ 2Corinthians 6
+    - @ 2Corinthians 7
+    - @ 2Corinthians 8
+    - @ 2Corinthians 9
+- [ ] #BibleRecap [Day 340 - 2 Corinthians 10-13](https://thebiblerecap.podbean.com/e/day340-year5/)
+    - @ 2Corinthians 10
+    - @ 2Corinthians 11
+    - @ 2Corinthians 12
+    - @ 2Corinthians 13
+- [ ] #BibleRecap [Day 341 - Romans 1-3](https://thebiblerecap.podbean.com/e/day341-year5/)
+    - @ Romans 1
+    - @ Romans 2
+    - @ Romans 3
+- [ ] #BibleRecap [Day 342 - Romans 4-7](https://thebiblerecap.podbean.com/e/day342-year5/)
+    - @ Romans 4
+    - @ Romans 5
+    - @ Romans 6
+    - @ Romans 7
+- [ ] #BibleRecap [Day 343 - Romans 8-10](https://thebiblerecap.podbean.com/e/day343-year5/)
+    - @ Romans 8
+    - @ Romans 9
+    - @ Romans 10
+- [ ] #BibleRecap [Day 344 - Romans 11-13](https://thebiblerecap.podbean.com/e/day344-year5/)
+    - @ Romans 11
+    - @ Romans 12
+    - @ Romans 13
+- [ ] #BibleRecap [Day 345 - Romans 14-16](https://thebiblerecap.podbean.com/e/day345-year5/)
+    - @ Romans 14
+    - @ Romans 15
+    - @ Romans 16
+- [ ] #BibleRecap [Day 346 - Acts 20-23](https://thebiblerecap.podbean.com/e/day346-year5/)
+    - @ Acts 20
+    - @ Acts 21
+    - @ Acts 22
+    - @ Acts 23
+- [ ] #BibleRecap [Day 347 - Acts 24-26](https://thebiblerecap.podbean.com/e/day347-year5/)
+    - @ Acts 24
+    - @ Acts 25
+    - @ Acts 26
+- [ ] #BibleRecap [Day 348 - Acts 27-28](https://thebiblerecap.podbean.com/e/day348-year5/)
+    - @ Acts 27
+    - @ Acts 28
+- [ ] #BibleRecap [Day 349 - Colossians 1-4, Philemon 1](https://thebiblerecap.podbean.com/e/day349-year5/)
+    - @ Colossians 1
+    - @ Colossians 2
+    - @ Colossians 3
+    - @ Colossians 4
+    - @ Philemon 1
+- [ ] #BibleRecap [Day 350 - Ephesians 1-6](https://thebiblerecap.podbean.com/e/day350-year5/)
+    - @ Ephesians 1
+    - @ Ephesians 2
+    - @ Ephesians 3
+    - @ Ephesians 4
+    - @ Ephesians 5
+    - @ Ephesians 6
+- [ ] #BibleRecap [Day 351 - Philippians 1-4](https://thebiblerecap.podbean.com/e/day351-year5/)
+    - @ Philippians 1
+    - @ Philippians 2
+    - @ Philippians 3
+    - @ Philippians 4
+- [ ] #BibleRecap [Day 352 - 1 Timothy 1-6](https://thebiblerecap.podbean.com/e/day352-year5/)
+    - @ 1Timothy 1
+    - @ 1Timothy 2
+    - @ 1Timothy 3
+    - @ 1Timothy 4
+    - @ 1Timothy 5
+    - @ 1Timothy 6
+- [ ] #BibleRecap [Day 353 - Titus 1-3](https://thebiblerecap.podbean.com/e/day353-year5/)
+    - @ Titus 1
+    - @ Titus 2
+    - @ Titus 3
+- [ ] #BibleRecap [Day 354 - 1 Peter 1-5](https://thebiblerecap.podbean.com/e/day354-year5/)
+    - @ 1Peter 1
+    - @ 1Peter 2
+    - @ 1Peter 3
+    - @ 1Peter 4
+    - @ 1Peter 5
+- [ ] #BibleRecap [Day 355 - Hebrews 1-6](https://thebiblerecap.podbean.com/e/day355-year5/)
+    - @ Hebrews 1
+    - @ Hebrews 2
+    - @ Hebrews 3
+    - @ Hebrews 4
+    - @ Hebrews 5
+    - @ Hebrews 6
+- [ ] #BibleRecap [Day 356 - Hebrews 7-10](https://thebiblerecap.podbean.com/e/day356-year5/)
+    - @ Hebrews 7
+    - @ Hebrews 8
+    - @ Hebrews 9
+    - @ Hebrews 10
+- [ ] #BibleRecap [Day 357 - Hebrews 11-13](https://thebiblerecap.podbean.com/e/day357-year5/)
+    - @ Hebrews 11
+    - @ Hebrews 12
+    - @ Hebrews 13
+- [ ] #BibleRecap [Day 358 - 2 Timothy 1-4](https://thebiblerecap.podbean.com/e/day358-year5/)
+    - @ 2Timothy 1
+    - @ 2Timothy 2
+    - @ 2Timothy 3
+    - @ 2Timothy 4
+- [ ] #BibleRecap [Day 359 - 2 Peter 1-3, Jude 1](https://thebiblerecap.podbean.com/e/day359-year5/)
+    - @ 2Peter 1
+    - @ 2Peter 2
+    - @ 2Peter 3
+    - @ Jude 1
+- [ ] #BibleRecap [Day 360 - 1 John 1-5](https://thebiblerecap.podbean.com/e/day360-year5/)
+    - @ 1John 1
+    - @ 1John 2
+    - @ 1John 3
+    - @ 1John 4
+    - @ 1John 5
+- [ ] #BibleRecap [Day 361 - 2 John 1, 3 John 1](https://thebiblerecap.podbean.com/e/day361-year5/)
+    - @ 1John 1
+    - @ 1John 1
+- [ ] #BibleRecap [Day 362 - Revelation 1-5](https://thebiblerecap.podbean.com/e/day362-year5/)
+    - @ Revelation 1
+    - @ Revelation 2
+    - @ Revelation 3
+    - @ Revelation 4
+    - @ Revelation 5
+- [ ] #BibleRecap [Day 363 - Revelation 6-11](https://thebiblerecap.podbean.com/e/day363-year5/)
+    - @ Revelation 6
+    - @ Revelation 7
+    - @ Revelation 8
+    - @ Revelation 9
+    - @ Revelation 10
+    - @ Revelation 11
+- [ ] #BibleRecap [Day 364 - Revelation 12-18](https://thebiblerecap.podbean.com/e/day364-year5/)
+    - @ Revelation 12
+    - @ Revelation 13
+    - @ Revelation 14
+    - @ Revelation 15
+    - @ Revelation 16
+    - @ Revelation 17
+    - @ Revelation 18
+- [ ] #BibleRecap [Day 365 - Revelation 19-22](https://thebiblerecap.podbean.com/e/day365-year5/)
+    - @ Revelation 19
+    - @ Revelation 20
+    - @ Revelation 21
+    - @ Revelation 22
